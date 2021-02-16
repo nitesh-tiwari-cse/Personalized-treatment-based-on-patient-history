@@ -23,3 +23,4 @@ A Web portal to predict whether the person is diabetic, prediabetic or healthy a
 # I have also uploaded the Technical Paper with the name "B21 Updated Paper". It is a paper I have published in my college.
 
 # Home page of System
+
