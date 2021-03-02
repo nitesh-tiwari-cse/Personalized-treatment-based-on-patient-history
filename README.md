@@ -34,6 +34,7 @@ A Web portal to predict whether the person is diabetic, prediabetic or healthy a
 ![](screenshots/pic11.JPG)
 ### Visualization
 ![](screenshots/pic12.JPG)
+### [Paper Presentation on Multicon W ICICN 2020 Personalized Treatment Based On Patient History](https://github.com/nitesh-tiwari-cse/Personalized-treatment-based-on-patient-history/blob/main/Paper%20Presentation%20on%20Multicon%20W%20ICICN%202020%20Personalized%20Treatment%20Based%20On%20Patient%20History%20.pdf)
 
 
 
